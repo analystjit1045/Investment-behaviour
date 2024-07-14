@@ -39,7 +39,18 @@ Exploratory analysis about the investment behavior by customers
 
 #Insight : Providing tools and features in investment products that cater to different monitoring preferences.
     
-  
+RECOMMENDATION :
+
+1) Develop and market specific investment products tailored to different demographics. For instance, create retirement-focused investment plans for older investors and higher-risk, high-return options for younger investors.This can increase customer satisfaction and engagement by meeting the unique needs of different investor groups.
+
+2) Invest in creating high-quality, easily accessible financial education content through popular channels such as the internet, social media, and financial consultants. Better-informed investors are likely to make more confident investment decisions, potentially increasing investment volumes and customer loyalty.
+
+3) Offer customizable monitoring tools that allow investors to set their preferred frequency for updates and alerts (daily, weekly, monthly). Additionally, provide personalized advisory services that cater to these monitoring habits.This can enhance the user experience and empower investors to manage their portfolios more effectively, leading to higher satisfaction and retention rates.
+
+4) Run targeted campaigns that emphasize these key motivators. For example, promote equity investments by highlighting potential capital gains and mutual funds by showcasing superior returns and diversification benefits. By aligning marketing messages with investor motivations, financial institutions can attract more investors and drive higher engagement with their investment products
+   
+
+   
    
      
         
